@@ -17,7 +17,7 @@ SPA для конвертирования валют. Приложение оп�
 
 ### Установка и запуск
 1. **Клонируйте репозиторий**
-git clone https://github.com/ВАШ_АККАУНТ/currency-converter.git
+git clone https://github.com/Gueet/currency-converter.git
 cd currency-converter
 2. **Установите зависимости**
 npm install
